@@ -33,23 +33,4 @@ class iphone
             cout<<"\n enter apple price =";
             cin>>apple_price;
         }
-};
-class application:public android,public iphone
-{
-    protected:
-        int 
-    public:
-        void getdata()
-        {
-            
-        }
-};
-int main()
-{
-    appliction a1;
-    a1.accept();
-    a1.get();
-    a1.getdata();
-
-    return 0;
 }
